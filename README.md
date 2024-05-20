@@ -1,6 +1,6 @@
 # ¡Hola! Soy Jonathan Medina 👋
 
-![Profile Banner](https://scontent.flmm1-1.fna.fbcdn.net/v/t39.30808-6/401652860_3616667095280113_4067771415476957337_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=0-8_nX9UaGwQ7kNvgE9HMd7&_nc_ht=scontent.flmm1-1.fna&oh=00_AYDw4dxhyD6-dn1fU9BMlPgwhxEs7fyfaupPvxAlIKA33A&oe=6650955C)
+<img src="https://scontent.flmm1-1.fna.fbcdn.net/v/t39.30808-6/401652860_3616667095280113_4067771415476957337_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=0-8_nX9UaGwQ7kNvgE9HMd7&_nc_ht=scontent.flmm1-1.fna&oh=00_AYDw4dxhyD6-dn1fU9BMlPgwhxEs7fyfaupPvxAlIKA33A&oe=6650955C" alt="Profile Banner" width="600">
 
 Soy un apasionado estudiante de Administración en [Utel](https://www.utel.edu.mx/), con una fuerte inclinación hacia la música, la programación y la tecnología sostenible.
 
