@@ -1,7 +1,7 @@
 # ¡Hola! Soy Jonathan Medina 👋
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQEYrldFL2rv_g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725032600172?e=1738195200&v=beta&t=tquDWgJXcidwZkkSmhsDCVzRgAOiM7GQ2KfQlg9_21U" width="200" alt="Jonathan Medina" style="border-radius:50%;">
+  <img src="https://jona943.github.io/MyPages/img/jonathan.jpg" width="200" alt="Jonathan Medina" style="border-radius:50%;">
 </p>
 
 <p align="center">
